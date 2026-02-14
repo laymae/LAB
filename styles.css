@@ -2,7 +2,7 @@
 body {
 	margin: 0;
 	font-family: Arial, sans-serif;
-	background-image: url("1.JPEG");
+	background-image: url("1.JPG");
 	background: #f5f6fa;
 	min-height: 100vh;
 	display: grid;
@@ -92,4 +92,5 @@ button {
 	background: #111827;
 	color: white;
 }
+
 
